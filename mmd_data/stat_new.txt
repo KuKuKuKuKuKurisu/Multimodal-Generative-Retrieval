@@ -1,0 +1,11 @@
+acc:  0.03555836397058824
+soft acc:  0.04354319852941176
+bleu 0.5 acc:  0.26384420955882354
+bleu 0.7 acc:  0.12605315563725492
+bleu 0.9 acc:  0.03961780024509804
+
+label = women/shoes => [women, shoes]
+pred = men/shoes
+
+stage1 : product info => url
+stage2 : dialog hist -> product info
