@@ -1,1 +1,1 @@
-# A Simple Implementatino of Multimodal Generative Retrieval Based on MMICL
+# A Simple Implementation of Multimodal Generative Retrieval Based on MMICL
